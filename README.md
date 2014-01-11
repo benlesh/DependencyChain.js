@@ -1,14 +1,11 @@
 DependencyChain.js
+======
 
 MIT license
 
-======
-
 A class for sorting dependencies and detecting circular references.
 
-Will throw an error if circular dependencies are detected.
-
-Usage:
+##Usage
 
     var dc = new DependencyChain();
 
