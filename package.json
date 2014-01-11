@@ -1,0 +1,35 @@
+{
+  "name": "DependencyChain.js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "DependencyChain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/blesh/DependencyChain.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Dependencies"
+  ],
+  "author": "Ben Lesh",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jasmine": "~0.5.2"
+  },
+  "dependencies": {
+    "karma-chrome-launcher": "~0.1.2",
+    "karma-firefox-launcher": "~0.1.3",
+    "karma-script-launcher": "~0.1.0",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1.5",
+    "karma-coffee-preprocessor": "~0.1.2",
+    "requirejs": "~2.1.10",
+    "karma-requirejs": "~0.2.1",
+    "karma-phantomjs-launcher": "~0.1.1",
+    "karma": "~0.10.9"
+  }
+}
